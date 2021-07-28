@@ -1,4 +1,4 @@
-# Ender3Pro-Firmware
+# Ender3Pro-ProgressRepo
 This repository contains my custom Firmware Configurations for the Creality Ender 3 Pro printer. All the files and parts are part of open source communities. This repository is used to document progress on my printer and provide software/hardware support to anyone looking for similar modifications. 
 
 Current Hardware Setup:
